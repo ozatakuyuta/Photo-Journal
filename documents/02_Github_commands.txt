@@ -1,0 +1,11 @@
+# ローカルにクローンしたい
+git clone https://github.com/ozatakuyuta/Photo-Journal.git
+
+# 全ファイルをステージング
+git add .
+
+# ステージングしたファイルをコミット
+git commit -m "適切なコメントを書く"
+
+# コミットをGitHubに送信
+git push
