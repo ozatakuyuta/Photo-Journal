@@ -8,4 +8,6 @@ git add .
 git commit -m "適切なコメントを書く"
 
 # コミットをGitHubに送信
-git push
+git push 
+
+This is my edit.
